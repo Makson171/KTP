@@ -1,0 +1,5 @@
+a  =  int ( float ( input ( "Ввести число: " )))
+b  =  int ( float ( input ( "Ввести друге ціле число: " )))
+
+print ( - b , '/' , a , '=' , - b / a )
+х  = ( - b / a )
